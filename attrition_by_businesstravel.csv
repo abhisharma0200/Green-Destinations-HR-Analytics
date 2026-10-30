@@ -1,0 +1,4 @@
+BusinessTravel,Employees,AttritionRate,AttritionRatePct
+Non-Travel,150,0.08,8.0
+Travel_Frequently,277,0.2490974729241877,24.90974729241877
+Travel_Rarely,1043,0.14956855225311602,14.956855225311601

@@ -1,0 +1,21 @@
+{
+  "rows": 1470,
+  "columns": 35,
+  "missing_cells": 0,
+  "duplicate_rows": 0,
+  "attrition_count": 237,
+  "attrition_rate_pct": 16.122448979591837,
+  "best_model_by_f1": "Logistic Regression",
+  "best_model_metrics": {
+    "Model": "Logistic Regression",
+    "Accuracy": 0.7517006802721088,
+    "Precision": 0.3488372093023256,
+    "Recall": 0.6382978723404256,
+    "F1": 0.45112781954887216,
+    "ROC_AUC": 0.8031699543457662,
+    "PR_AUC_AveragePrecision": 0.5612212444049638
+  },
+  "random_state": 42,
+  "test_size": 0.2,
+  "positive_class": "Yes"
+}
